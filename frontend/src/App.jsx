@@ -68,7 +68,7 @@ const App = () => {
       </div>
       <div>
         <h2>
-          {pontok.min}/{pontok.max}
+          Pontok: {pontok.min}/{pontok.max}
         </h2>
       </div>
     </div>

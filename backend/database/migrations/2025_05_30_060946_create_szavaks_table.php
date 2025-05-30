@@ -21,72 +21,62 @@ return new class extends Migration
         });
 
         Szavak::create([
-            'angol' => 'word_ex1',
+            'angol' => 'word1',
             'magyar' => 'szo1',
-            'angol' => 1,
             'temas_id' => 1
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex1',
+            'angol' => 'word1',
             'magyar' => 'szo1',
-            'angol' => 1,
             'temas_id' => 1
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex1',
+            'angol' => 'word1',
             'magyar' => 'szo1',
-            'angol' => 1,
             'temas_id' => 1
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex1',
+            'angol' => 'word1',
             'magyar' => 'szo1',
-            'angol' => 1,
             'temas_id' => 1
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex2',
+            'angol' => 'word2',
             'magyar' => 'szo2',
-            'angol' => 2,
             'temas_id' => 2
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex2',
+            'angol' => 'word2',
             'magyar' => 'szo2',
-            'angol' => 2,
             'temas_id' => 2
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex2',
+            'angol' => 'word2',
             'magyar' => 'szo2',
-            'angol' => 2,
             'temas_id' => 2
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex3',
+            'angol' => 'word3',
             'magyar' => 'szo3',
-            'angol' => 3,
             'temas_id' => 3
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex3',
+            'angol' => 'word3',
             'magyar' => 'szo3',
-            'angol' => 3,
             'temas_id' => 3
         ]);
 
         Szavak::create([
-            'angol' => 'word_ex3',
+            'angol' => 'word3',
             'magyar' => 'szo3',
-            'angol' => 3,
             'temas_id' => 3
         ]);
     }
