@@ -58,9 +58,9 @@ const App = () => {
       <TemaSelect temak={temak} handleTemaValasztas={handleTemaValasztas} />
       <div>
         <div className="cimek">
-          <h3>ANGOL</h3>
-          <h3>MAGYAR</h3>
-          <h3>Visszajelzés</h3>
+          <h4>ANGOL</h4>
+          <h4>MAGYAR</h4>
+          <h4>Visszajelzés</h4>
         </div>
         {szavak?.map((szo) => (
           <Szo key={szo.id} szo={szo} setPontok={setPontok} />
